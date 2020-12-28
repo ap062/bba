@@ -13,3 +13,11 @@ prerequisites
  > unfurl
  > massdns
  
+ 
+<h1>Installation </h1> 
+
+git clone 
+
+cd 
+
+chmod 777 bba.sh
