@@ -20,7 +20,7 @@ git clone  https://github.com/ap062/bba
 cd  bba
 
 
-<h2> give the path to the variables </h2> <h6>
+<h2> Give path to the variables </h2> <h6>
   
 nano bba.sh 
 
