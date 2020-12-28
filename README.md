@@ -20,16 +20,19 @@ git clone  https://github.com/ap062/bba
 cd  bba
 
 
-give  the path  for :-
-<br>nano bba.sh 
-<br>wordlist="wordlist.txt"  
-<br>reso="resolvers.txt"   
-<br>nuc="nuclei-templates"
-<br>save and close 
+<h2> give the path to the variables </h2> <h6>
+  
+nano bba.sh 
 
-chmod 777 bba.sh
+wordlist="wordlist.txt"  
 
+reso="resolvers.txt"   
 
+nuc="nuclei-templates"
+
+save and close 
+
+chmod 777 bba.sh </h6>
 <h1> Usage: </h1>
   ./bba.sh target.com
   
