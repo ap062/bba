@@ -25,4 +25,6 @@ chmod 777 bba.sh
 
 <h1> Usage: </h1>
   ./bba.sh target.com
+  
+  
   It will do basic recon of your target 
