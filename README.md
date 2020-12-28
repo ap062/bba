@@ -18,14 +18,12 @@ prerequisites
 
 git clone  https://github.com/ap062/bba    
 cd  bba
-nano bba.sh 
+
 
 give  the path  for :-
-
-wordlist="wordlist.txt"
-   
-reso="resolvers.txt"
-   
+nano bba.sh 
+wordlist="wordlist.txt"  
+reso="resolvers.txt"   
 nuc="nuclei-templates"
 save and close 
 
