@@ -16,8 +16,8 @@ prerequisites
  
 <h1>Installation </h1> 
 
-git clone 
+git clone  https://github.com/ap062/bba-v1.0
 
-cd 
+cd  bba-v1.0
 
 chmod 777 bba.sh
