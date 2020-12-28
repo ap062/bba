@@ -16,8 +16,13 @@ prerequisites
  
 <h1>Installation </h1> 
 
-git clone  https://github.com/ap062/bba-v1.0
+git clone  https://github.com/ap062/bba    
 
-cd  bba-v1.0
+cd  bba
 
 chmod 777 bba.sh
+
+
+<h1> Usage: </h1>
+  ./bba.sh target.com
+  It will do basic recon of your target 
