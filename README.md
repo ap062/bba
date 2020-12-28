@@ -21,11 +21,11 @@ cd  bba
 
 
 give  the path  for :-
-nano bba.sh 
-wordlist="wordlist.txt"  
-reso="resolvers.txt"   
-nuc="nuclei-templates"
-save and close 
+<br>nano bba.sh 
+<br>wordlist="wordlist.txt"  
+<br>reso="resolvers.txt"   
+<br>nuc="nuclei-templates"
+<br>save and close 
 
 chmod 777 bba.sh
 
