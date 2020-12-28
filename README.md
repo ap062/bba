@@ -20,6 +20,12 @@ git clone  https://github.com/ap062/bba
 
 cd  bba
 
+nano bba.sh 
+ > change the path  for :-
+   wordlist="wordlist.txt"
+   reso="resolvers.txt"
+   nuc="nuclei-templates"
+save and close 
 chmod 777 bba.sh
 
 
